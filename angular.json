@@ -10,8 +10,6 @@
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
-          "inlineTemplate": true,
-          "inlineStyle": true,
           "style": "less",
           "skipTests": true
         },
@@ -44,7 +42,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/angular-dev-portfolio",
+            "outputPath": "bin",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
