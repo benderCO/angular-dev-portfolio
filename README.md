@@ -1,6 +1,19 @@
-# AngularDevPortfolio
+# Angular Dev Portfolio
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
+Angular Development Portfoliio
+
+This repo contains an easy-to-customize personal development portfolio built entirely in Angular. 
+
+GitHub Pages accept two different folder methods:
+
+* Root
+* Docs
+
+We can use the Root method for simple HTML, CSS, and JavaScript files since GitHub Pages start looking for such files in the root directory.
+
+We can use the Docs method in cases where we must build an app. This helps in hosting only the final output of the app, instead of hosting a complete app. GitHub Pages start looking for such files in the docs directory.
+
+In this case, since we are creating an Angular application we update the angular.json output folder to docs allowing us to host your own full angular application.
 
 ## Development server
 
@@ -17,11 +30,3 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
