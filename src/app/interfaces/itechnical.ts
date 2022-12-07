@@ -1,4 +1,4 @@
-export interface Technical {
+export interface ITechnical {
     codeBase: string[]
     database: string[]
     tooling: string[]

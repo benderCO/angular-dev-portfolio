@@ -1,4 +1,4 @@
-export interface Education {
+export interface IEducation {
     university: string
     startYear: number
     endYear: number

@@ -1,4 +1,4 @@
-export interface Position {
+export interface IPosition {
     title: string
     team?: string
     summary: string

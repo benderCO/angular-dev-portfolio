@@ -1,4 +1,4 @@
-export interface SocialMedia {
+export interface ISocialMedia {
     url: string
     img?: any
     name: string
