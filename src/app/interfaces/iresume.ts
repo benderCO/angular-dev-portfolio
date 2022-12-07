@@ -6,7 +6,7 @@ import { ISummary } from "./isummary"
 import { ITechnical } from "./itechnical"
 
 export interface IResume {
-    technical: TIechnical
+    technical: ITechnical
     cv: ICv
     education?: IEducation
     summary: ISummary
