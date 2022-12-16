@@ -5,6 +5,7 @@ export class Education implements IEducation {
     startYear: number;
     endYear: number;
     gpa?: number | undefined;
+    degree: string;
     major: string;
     minor?: string | undefined;
     activities: string[];
@@ -15,6 +16,7 @@ export class Education implements IEducation {
         this.startYear = _education?.startYear || new Date().getFullYear();
         this.endYear = _education?.endYear || new Date().getFullYear();
         this.gpa = _education?.gpa || 0;
+        this.degree = _education?.degree || ''
         this.major = _education?.major || '';
         this.minor = _education?.minor || '';
         this.activities = _education?.activities || [];

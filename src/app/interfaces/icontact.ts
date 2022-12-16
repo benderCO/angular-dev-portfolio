@@ -1,9 +1,9 @@
 import { ISocialMedia } from "./isocial-media";
 
 export interface IContact {
-    name: string,
-    phone: string,
-    email: string,
-    address?: string,
+  address?: string,
+  email: string,
+  name: string,
+  phone: string,
     socialMedia: ISocialMedia[]
 }

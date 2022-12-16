@@ -1,3 +1,46 @@
 {
-
+    "technical": {
+        "codeBase": ["Angular", "React", "Vue", "Typescript", "Javascript", "C#", "Node", "Express", "Java"],
+        "database": ["SQL Server", "Oracle", "GraphQL", "Postgres", "CosmosDB", "MongoDB", "Snowflake"],
+        "tooling": ["git", "yarn", "npm", "AngularCLI", "Jenkins", "Azure Pipelines", "Octopus"],
+        "cloud": ["Amazon Web Services (AWS)", "Microsoft Azure", "Google Cloud"],
+        "os": ["MacOS", "Windows 10", "Ubuntu", "Linux"]
+    },
+    "cv": {
+		"positions": []
+	},
+    "education": {
+		"university": "University of Wisconsin - Made Up City",
+		"startYear": 2006,
+		"endYear": 2010,
+		"gpa": 3.5,
+		"degree": "Bacholers of Unicorns",
+		"major": "Horn Theory",
+		"minor": "Rainbows",
+		"activities": ["Lorem ipsum dolor sit amet.", "Lorem ipsum"],
+		"associations": ["Alpha Alpha Alpha", "Alpha Beta Delta", "Alpha Charlie"]
+	},
+    "summary": {
+		"text": [
+			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin dictum vulputate est quis hendrerit. Sed dapibus pellentesque ante eu suscipit. Proin ac suscipit orci, ut placerat nisi. Mauris sodales sed ante et cursus. Integer arcu arcu, eleifend non lacinia nec, tristique eu libero. Quisque elementum feugiat tellus, quis vehicula neque. Phasellus mi elit, dapibus vel efficitur ac, iaculis feugiat purus. Vestibulum ut ultricies ante. Vestibulum a venenatis lorem. Aliquam in pharetra dui. Donec ornare lacinia justo, et tempus diam venenatis eu. Sed sit amet sem id ex interdum dignissim a in dui. Nam venenatis suscipit velit et pulvinar.",
+			"In hac habitasse platea dictumst. Nam malesuada tempus nulla eu dignissim. Sed non quam aliquam, faucibus ex nec, pretium felis. Suspendisse consequat ligula tincidunt, sagittis urna et, egestas tellus. Nullam vitae diam lorem. Sed mollis ac dui non laoreet. Suspendisse potenti. Pellentesque eu metus tempus risus lacinia bibendum. Donec fringilla erat nulla, id vehicula lacus dapibus non. Duis ut vestibulum nisi. Morbi ipsum diam, eleifend quis luctus eleifend, imperdiet vitae libero.",
+			"Pellentesque aliquam, ipsum at ultricies rhoncus, ipsum tortor mattis neque, id aliquam ante urna eu lacus. Donec non dictum nulla. Integer gravida nibh at augue dapibus, in egestas lectus sodales. Etiam imperdiet nulla quis justo tincidunt blandit. Fusce feugiat efficitur nisl, consequat luctus quam bibendum nec. Cras bibendum convallis interdum. Suspendisse rhoncus mollis nunc non aliquet. Maecenas condimentum dolor at luctus vehicula. Duis aliquet et ligula non blandit. In aliquet sagittis urna, non consequat ante cursus id. Nulla dapibus maximus dolor vitae semper. Duis suscipit in urna eget congue."
+		]
+	},
+    "contact": {
+		"name": "John Doe",
+		"phone": 4144144144,
+		"email": "John.Doe@John.doe.com",
+		"address": "123 Fake St Milwaukee WI 53211",
+		"socialMedia": [{
+			"url": "https://benderco.github.io/",
+			"img": null,
+			"name": "Fake Social Media"
+		}]
+	},
+    "projects": [{
+		"img": null,
+		"name": "Fake Project",
+		"url": "https://benderco.github.io/"
+	}]
 }

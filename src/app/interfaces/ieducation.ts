@@ -3,6 +3,7 @@ export interface IEducation {
     startYear: number
     endYear: number
     gpa?: number
+    degree: string
     major: string
     minor?: string
     activities: string[]
