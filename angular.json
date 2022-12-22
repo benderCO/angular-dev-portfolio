@@ -59,7 +59,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.less"
+				"./node_modules/bootstrap/dist/css/bootstrap.css",
+              	"src/styles.less"
             ],
             "scripts": []
           },
