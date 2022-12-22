@@ -1,8 +1,6 @@
-export interface IPosition {
+export interface ICompany {
     title: string
-    team?: string
-    summary: string
-    accomplishments: string[]
+    summary?: string
     location?: string
     startMonth?: number
     startYear?: number

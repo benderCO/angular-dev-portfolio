@@ -7,13 +7,22 @@
         "os": ["MacOS", "Windows 10", "Ubuntu", "Linux"]
     },
     "cv": {
-		"positions": [{
-				"title": "Senior Software Indavidial Contributor",
-				"team": "Flying Unicorns - (User Experience)",
-				"summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In est ante in nibh mauris cursus mattis molestie a. Urna porttitor rhoncus dolor purus non enim praesent elementum facilisis. Ut etiam sit amet nisl purus in mollis nunc sed.",
-				"accomplishments": ["Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", "Fermentum et sollicitudin ac orci phasellus egestas tellus rutrum tellus.", "Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam.", "Enim neque volutpat ac tincidunt vitae semper quis lectus."],
-				"location": "Remote - Milwauke Wisconsin"
-			}]
+		"company": {
+			"name": "BenderCO's Fake Company",
+			"positions": [{
+					"title": "Senior Software Indavidial Contributor",
+					"team": "Flying Unicorns - (User Experience)",
+					"summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In est ante in nibh mauris cursus mattis molestie a. Urna porttitor rhoncus dolor purus non enim praesent elementum facilisis. Ut etiam sit amet nisl purus in mollis nunc sed.",
+					"accomplishments": ["Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", "Fermentum et sollicitudin ac orci phasellus egestas tellus rutrum tellus.", "Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam.", "Enim neque volutpat ac tincidunt vitae semper quis lectus."],
+					"location": "Remote - Milwauke Wisconsin"
+				}]
+			},
+			"summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at justo felis. Sed sagittis nibh a leo tempor, sed condimentum sapien feugiat. Donec non sagittis dolor, eget finibus augue. Nunc rutrum magna risus, nec faucibus tellus laoreet in. Integer faucibus tortor non tempus ultrices. Vivamus felis elit, sodales sit amet leo quis, scelerisque cursus quam. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc lacus enim, malesuada feugiat arcu tempus, porttitor vestibulum sapien.",
+			"location": "Milwauke Wisconsin",
+			"startMonth": 2,
+			"startYear": 2010,
+			"endMonth": 9,
+			"endYear": 2022
 		},
     "education": {
 		"university": "University of Wisconsin - Made Up City",

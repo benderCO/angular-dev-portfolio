@@ -1,10 +1,10 @@
+import { ICompany } from 'src/app/interfaces/icompany';
 import { ICv } from "../interfaces/icv";
-import { IPosition } from "../interfaces/iposition";
 
 export class Cv implements ICv {
-    positions: IPosition[] = [];
+    company: ICompany[] = [];
 
     constructor(_cv?: ICv) {
-        this.positions = _cv?.positions || [];
+        this.company = _cv?.company || [];
     }
 }

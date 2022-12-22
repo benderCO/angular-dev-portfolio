@@ -1,5 +1,5 @@
-import { IPosition } from "./iposition";
+import { ICompany } from 'src/app/interfaces/icompany';
 
 export interface ICv {
-    positions: IPosition[]
+    company: ICompany[]
 }
